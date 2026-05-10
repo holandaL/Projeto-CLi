@@ -15,7 +15,7 @@ A aplicação é uma agenda de contatos pessoais executada via linha de comando,
 Clone o repositório:
 
 ```bash
-git clone LINK_DO_SEU_REPOSITORIO
+git clone https://github.com/holandaL/Projeto-CLi.git
 cd agenda_cli
 ```
 
